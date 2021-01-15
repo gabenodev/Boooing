@@ -1,0 +1,3 @@
+triangle 20 120 1 1 true 50 0 128 0 2000 false
+triangle 50 150 2 2 true 50 128 0 128 3000 false
+triangle 70 200 3 3 true 34 255 215 0 4000 true
